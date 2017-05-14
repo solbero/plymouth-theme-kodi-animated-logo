@@ -1,0 +1,15 @@
+Package: plymouth-theme-kodi-animated-logo
+Source: plymouth
+Version: 1.0.0
+Architecture: all
+Maintainer: solbero <njord.solberg@gmail.com>
+Depends: plymouth, plymouth-label
+Provides: plymouth-theme
+Section: x11
+Priority: optional
+Description: Graphical boot animation and logger (Kodi Animated Logo theme)
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the Kodi Animated Logo theme.

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=KODI Animated Logo
+Description=A theme that features a blank background with an animated KODI logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kodi-animated-logo/
+ScriptFile=/usr/share/plymouth/themes/kodi-animated-logo/kodi-animated-logo.script
