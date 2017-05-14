@@ -1,3 +1,3 @@
 #!/bin/bash
 
-dpkg -b kodi-openbox
+dpkg -b plymouth-theme-kodi-animated-logo
