@@ -32,9 +32,6 @@ case "$1" in
 	update-alternatives \
 		--remove default.plymouth /usr/share/plymouth/themes/kodi-animated-logo/kodi-animated-logo.plymouth
 
-	rmdir /lib/plymouth/themes || :
-	rmdir /lib/plymouth || :
-
 	if which update-initramfs >/dev/null 2>&1
 	then
 	    update-initramfs -u
