@@ -15,8 +15,6 @@ This is a fork of the Plymouth theme *Kodibuntu Animated Logo* from [XBMCbuntu](
 To package *Kodi Animated Logo* into a .deb for installation with `dpkg` move into the cloned or downloaded folder, then issue the following commands.
 
 ```sh
-sudo chmod -R root:root plymouth-theme-kodi-animated-logo
-
 ./build.sh
 
 sudo dpkg -i plymouth-theme-kodi-animated-logo.deb
