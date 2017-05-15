@@ -25,7 +25,7 @@ sudo dpkg -i plymouth-theme-kodi-animated-logo.deb
 To remove *Kodi Animated Logo* you can use `apt-get`.
 
 ```sh
-sudo apt-get remove plymouth-theme-kodi-animated-logo
+sudo dpkg -r plymouth-theme-kodi-animated-logo
 ```
 ## Authors
 
