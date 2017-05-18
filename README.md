@@ -4,7 +4,7 @@
 
 ## About
 
-This is a fork of the Plymouth theme *Kodibuntu Animated Logo* from [XBMCbuntu](https://github.com/xbmc/XBMCbuntu). Installation paths have been changed from `lib/plymouth/themes` to `/usr/share/plymouth/themes` to make it compatible with Ubuntu 16.04 LTS and later versions.
+This is a fork of the Plymouth theme *Kodibuntu Animated Logo* from [XBMCbuntu](https://github.com/xbmc/XBMCbuntu). Installation paths have been changed from `/lib/plymouth/themes` to `/usr/share/plymouth/themes` to make it compatible with Ubuntu 16.04 LTS and later versions.
 
 ## Demo
 
